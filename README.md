@@ -16,8 +16,9 @@
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **JavaScript** and expanding my coding skills
 - 🎯 Goal-oriented developer who loves building practical projects
-- 💡 Philosophy: *"If you can't decide, the answer is no"*
-- ⚡ Fun fact: I believe short-term pain leads to long-term growth
+- 💡 Motto: *"People only listen on what they wanted to hear."*
+
+- ⚡ I believe short-term pain leads to long-term growth
 
 ---
 
@@ -28,7 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
 #### Tools & Technologies
