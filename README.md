@@ -14,24 +14,14 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently learning **JavaScript** and expanding my coding skills
+- 🌱 Currently learning **Machine Learning** and expanding my coding skills
 - 🎯 Goal-oriented developer who loves building practical projects
-- 💡 Motto: *"People only listen on what they wanted to hear."*
-
-- ⚡ I believe short-term pain leads to long-term growth
+- ⚡ I believe that short-term pain leads to long-term growth
 
 ---
 
 
 ### 🛠️ Tech Stack
-#### Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-</p>
-
 #### Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
