@@ -11,12 +11,6 @@
   </a>
 </p>
 
----
-
-### 🧑‍💻 About Me
-- 🌱 Currently learning **Machine Learning** and expanding my coding skills
-- 🎯 Goal-oriented developer who loves building practical projects
-- ⚡ I believe that short-term pain leads to long-term growth
 
 ---
 
