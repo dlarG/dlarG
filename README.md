@@ -16,7 +16,6 @@
 
 
 ### 🛠️ Tech Stack
-#### Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio 2022"/>
@@ -28,17 +27,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-📫 **How to reach me**:
-- Instagram: [@its_me_dlar](https://www.instagram.com/its_me_dlar/)
-- Email: [geraldcatina5@gmail.com](mailto:geraldcatina5@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dlarG&label=Profile%20views&color=0e75b6&style=flat" alt="dlarG" /> 
-  <img src="https://img.shields.io/github/followers/dlarG?label=Follow&style=social" alt="GitHub followers"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlarG&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
